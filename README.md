@@ -6,7 +6,7 @@ HACKFEVM-FRONTEND: Next.js / react app
 Soulmates-Contracts: FEVM smart contracts
 
 # Team
-Team name: Soulmates
+Team/Project name: Soulmates
 
 carson – smart contracts, front-end, integration
 
