@@ -8,9 +8,8 @@ Soulmates-Contracts: FEVM smart contracts
 # Team
 Team name: Soulmates
 
-Team members:
-- Pooja Shah
-- Carson Roscoe
-- Rohan Agarwal
-- Christopher Abdo
-- Raj B
+carson – smart contracts, front-end, integration
+chrisabdo – front-end, integration
+hfccr – front-end, integration
+pooja – product design, use cases
+rohanagarwal – smart contracts, front-end, integration
