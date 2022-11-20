@@ -9,7 +9,11 @@ Soulmates-Contracts: FEVM smart contracts
 Team name: Soulmates
 
 carson – smart contracts, front-end, integration
+
 chrisabdo – front-end, integration
+
 hfccr – front-end, integration
+
 pooja – product design, use cases
+
 rohanagarwal – smart contracts, front-end, integration
