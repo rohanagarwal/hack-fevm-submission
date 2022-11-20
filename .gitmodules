@@ -1,0 +1,6 @@
+[submodule "HACKFEVM-FRONTEND"]
+	path = HACKFEVM-FRONTEND
+	url = https://github.com/ChrisAbdo/HACKFEVM-FRONTEND
+[submodule "Soulmates-Contracts"]
+	path = Soulmates-Contracts
+	url = https://github.com/CarsonRoscoe/Soulmates-Contracts
